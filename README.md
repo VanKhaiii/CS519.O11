@@ -19,4 +19,4 @@ Thành viên:
 
 # 2. Mở đầu 
 
-Chúng tôi cài đặt một e2e method cho bài toán "OUTDOOR IMAGE PROCESSING: INVESTIGATING TEXT DETECTION AND RECOGNITION IN VIETNAMESE USING DBNETPP AND PARSEQ." đồng thời xây dựng một web app để demo.
+Tôi đề xuất 1 phương pháp e2e method cho bài toán "OUTDOOR IMAGE PROCESSING: INVESTIGATING TEXT DETECTION AND RECOGNITION IN VIETNAMESE USING DBNETPP AND PARSEQ." đồng thời xây dựng một web app để demo.
