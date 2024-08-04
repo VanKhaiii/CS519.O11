@@ -22,8 +22,8 @@
 * **Giảng viên**: Lê Đình Duy - *duyld@uit.edu.vn*
 
 ## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:**  XỬLÝẢNHNGOẠICẢNH:NGHIÊNCỨUVIỆCPHÁTHIỆNVÀNHẬNDIỆNVĂN
- BẢNTIẾNGVIỆTVỚIDBNETPPVÀPARSEQ
+* **Tên đồ án:**  XỬ LÝ ẢNH NGOẠI CẢNH:  OUT DOOR IMAGE PROCESSING:INVESTIGATING TEXT DETECTION AND
+ RECOGNITION IN VIETNAMESE USING DBNETPP AND PARSEQ.
 ### Giới thiệu đồ án: 
  Trong đề tài này, tôi sẽ tập trung vào việc kết hợp các mô hình dựa trên hướng tiếp cận là tận
  dụng các mô hình SOTA ở các tác vụ riêng lẻ trong bài toán Phát hiện và Nhận diện văn bản
